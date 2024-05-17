@@ -44,8 +44,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:nilsruet@gmx.fr' # For a direct email link, use "mailto:test@example.org".
+  - icon: google-scholar
+    icon_pack: fab
+    link: https://scholar.google.com/citations?hl=fr&user=DX-tTdMAAAAJ
   - icon: linkedin
-    icon_pack: brands
+    icon_pack: fab
     link: https://www.linkedin.com/in/nils-ruet-02a071180/
   - icon: github
     icon_pack: fab
@@ -60,5 +63,6 @@ social:
 
 I'm a Ph.D. student at CIAMS/Université Paris-Saclay, where my research is focused on mathematical models of consciousness, as well as their application in the study of emotions in social cognition. I also have a strong interest in machine learning and computer science.
 
+Supervisors : [David Rudrauf](https://hebergement.universite-paris-saclay.fr/drproj/), [Alain Finkel](https://scholar.google.be/citations?user=jq7H21IAAAAJ&hl=fr) and [Grégoire Sergeant-Perthuis](https://gregoiresergeant-perthuis.com/index.html).
 
 

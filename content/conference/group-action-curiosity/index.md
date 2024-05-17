@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Influence of the geometry of the feature space on curiosity based exploration - NeurIPS 2023 Infocog workshop (poster)"
+title: "Influence of the geometry of the feature space on curiosity based exploration, NeurIPS 2023 Infocog workshop - poster"
 authors:
   - "Grégoire Sergeant-Perthuis"
   - "Nils Ruet"

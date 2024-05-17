@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Inference on diagrams in the category of Markov kernels - ACT 7 (talk)"
+title: "Inference on diagrams in the category of Markov kernels, ACT7 - talk"
 authors:
   - "Grégoire Sergeant-Perthuis"
   - "Nils Ruet"

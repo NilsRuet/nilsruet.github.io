@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Dualities in Homogeneous Spaces May Underly Pre-Reflective Self-Consciousness - ASSC27 (poster)"
+title: "Dualities in Homogeneous Spaces May Underly Pre-Reflective Self-Consciousness, ASSC27 - poster"
 authors:
   - "Grégoire Sergeant-Perthuis"
   - "Nils Ruet"

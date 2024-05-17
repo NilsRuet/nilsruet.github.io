@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Integrated Information Theory (IIT) with Simple Maths  - ASSC27 (talk)"
+title: "Integrated Information Theory (IIT) with Simple Maths, ASSC27 - talk"
 authors:
   - "David Rudrauf"
   - "Tonglin Yan"

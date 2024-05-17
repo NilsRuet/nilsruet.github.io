@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Exploring how the geometry of the representation space influences curiosity-based exploration - ASSC27 (poster)"
+title: "Exploring how the geometry of the representation space influences curiosity-based exploration, ASSC27 - poster"
 authors:
   - "Nils Ruet"
   - "Tonglin Yan"

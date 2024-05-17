@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: research-conference
     content:
-      title: Conference/workshops
+      title: Conferences/workshops
       subtitle: 
       text: 
       # Display content from the `content/post/` folder

@@ -1,0 +1,23 @@
+.contact-icons {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.contact-icons a {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+  transition: opacity 0.2s;
+  box-shadow: none;
+  text-decoration: underline;
+}
+
+.contact-icons a:hover {
+  opacity: 0.7;
+}
+
+.contact-icon-link {
+  margin: 0 0 0 10px;
+}

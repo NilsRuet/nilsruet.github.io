@@ -1,0 +1,35 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Nils Ruet
+theme: ["PaperMod"]
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+
+params:
+  profileMode:
+    enabled: true
+    title: "Nils Ruet"
+    subtitle: "Software engineer exploring AI and reinforcement learning, with a passion for applied research. Currently looking for new opportunities, feel free to reach out!"
+    imageUrl: "images/avatar.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      # - name: Projects
+      #   url: "/projects"
+      - name: Resume
+        url: "/resume"
+
+  socialIcons:
+    - name: "email"
+      displayLink: "nilsruet@gmx.fr"
+      url: "mailto:nilsruet@gmx.fr"
+    - name: "GitHub"
+      displayLink: "github.com/nilsruet"
+      url: "https://github.com/NilsRuet/"
+    - name: "LinkedIn"
+      displayLink: "linkedin.com/in/nils-ruet-02a071180"
+      url: "https://www.linkedin.com/in/nils-ruet-02a071180/"

@@ -67,8 +67,8 @@ C#, .NET, Python, OpenCV
 
 Focus on software engineering, internet of things and artificial intelligence. 
 
-<!-- ---
+---
 
 ## Projects
 
-See [project page](/projects/)! -->
+See [my projects](/projects/) for more!

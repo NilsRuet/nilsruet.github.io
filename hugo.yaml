@@ -18,8 +18,8 @@ params:
     imageWidth: 120
     imageHeight: 120
     buttons:
-      # - name: Projects
-      #   url: "/projects"
+      - name: Projects
+        url: "/projects"
       - name: Resume
         url: "/resume"
 

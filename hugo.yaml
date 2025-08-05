@@ -33,3 +33,8 @@ params:
     - name: "LinkedIn"
       displayLink: "linkedin.com/in/nils-ruet-02a071180"
       url: "https://www.linkedin.com/in/nils-ruet-02a071180/"
+
+# For deployment
+caches:
+  images:
+    dir: :cacheDir/images

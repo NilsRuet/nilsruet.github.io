@@ -25,7 +25,7 @@ Studied mathematical models of key features of consciousness, including informat
 - Poster presentation at NeurIPS 2023 Infocog workshop - ***Influence of the geometry of the feature space on curiosity based exploration*** | [Poster](/files/neurips_poster.pdf)
 
 **Teaching**:
-- Teacher Assistant | Biomechanics, *Licence 1 STAPS* | Faculté des Sciences du Sport, Université-Paris-Saclay | 32h
+- Teacher Assistant | Biomechanics, *Licence 1 STAPS* | Faculté des Sciences du Sport, Université-Paris-Saclay
 
 **Supervision**:
 - Karim Boutih, M1 DevOps Intern, 4 months 

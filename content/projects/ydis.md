@@ -28,7 +28,6 @@ _Geometry Dash_ doesn't provide any API or method to interact with the game, mea
 The core of the data collection feature is done through periodically accessing key variables in the game's memory, and inferring the various events that occur during gameplay (e.g., the player started a level, started an attempt, exited the level, etc.). A class called `GameWatcher` is responsible for invoking the relevant C# events, while another class called `Recorder` builds the data structure based on the invoked events. The collected data is then serialized and can be used by the visualization feature.
 
 The entire application is made in C#, with WPF used for the UI. The main motivation for these technologies was their compatibility with the already Windows-only nature of the project, as well as my objective to be proficient with them.
-The application has two main critical features, data collection and presentation, as well as stability constraints that motivate the technical design.
 
 ## Main challenges and roadblocks
 - Locating in-game variables using static analysis (Ghidra) and runtime debugging (Cheat Engine)

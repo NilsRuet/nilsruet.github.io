@@ -1,6 +1,6 @@
 ---
 title: "Highway Pursuit RL"
-summary: "An RL agent that plays the game _Highway Pursuit_"
+summary: "I taught an AI to drive a retro arcade racer from the early 2000s by reverse-engineering the game's code and building a custom reinforcement learning environment"
 tags: ["Reinforcement Learning", "PyTorch", "PPO", "Stable-Baselines3", "C++", "Reverse engineering"]
 draft: false
 ---
@@ -28,7 +28,7 @@ I then trained reinforcement learning agents from pixels using PPO and other alg
 [Highway pursuit by Adam Dawes](https://adamdawes.com/games/highway-pursuit.html) is an arcade-like game from the early-2000s where the player drives a car along a highway from a top-down perspective and gains score as the traveled distance increases. The road is filled with civilian and enemy vehicles, both of which may collide and damage the player. Destroying civilian vehicles temporarily prevents score gains, while destroying enemies rewards the player with a flat score increase.
 
 ### Motivations
-My main motivation for this project was to gain hands-on experience with the Reinforcement Learning workflow and to explore behaviors learned through this method on an existing, human-playable problem. I was also technically interested in adapting an existing, non-RL-compliant application into a real-time Gym-compatible environment.
+My main motivation for this project was to gain hands-on experience with the reinforcement learning workflow and to explore behaviors learned through this method on an existing, human-playable problem. I was also technically interested in adapting an existing, non-RL-compliant application into a real-time Gym-compatible environment.
 Games offer ideal settings for this experimentation: they're fun, challenging, and provide intuitive ways to interpret and evaluate what an agent has learned.
 In particular, _Highway Pursuit_ has several properties that make it well-suited for RL:
 - The player's score provides a dense and straightforward reward signal
@@ -36,7 +36,7 @@ In particular, _Highway Pursuit_ has several properties that make it well-suited
 - It is computationally lightweight and can be significantly accelerated on modern machines.
 
 
-## Adapting the game to Reinforcement Learning
+## Adapting the Game to Reinforcement Learning
 In this first section, I outline the technical challenges and choices involved in turning the _Highway Pursuit_ into a Gym-compatible environment.
 
 ### Observations, actions and rewards

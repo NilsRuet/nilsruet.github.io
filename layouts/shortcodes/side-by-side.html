@@ -1,9 +1,0 @@
-<div class="side-by-side">
-  <div class="side-by-side-images">
-    <img src="{{ .Get "src1" }}" alt="{{ .Get "alt1" }}">
-    <img src="{{ .Get "src2" }}" alt="{{ .Get "alt2" }}">
-  </div>
-  {{ with .Get "caption" }}
-    <div class="side-by-side-caption">{{ . }}</div>
-  {{ end }}
-</div>

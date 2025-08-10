@@ -4,15 +4,23 @@ summary: "An app that tracks player stats in the game Geometry Dash"
 tags: ["C#", "WPF", "Reverse engineering"]
 draft: false
 ---
+[GitHub](https://github.com/exyl-exe/ydis)
 
-TL;DR: I created a Windows application that collects statistics about the user while they are playing a game, using memory reading, C# and WPF.
+## Summary
+I created a Windows application that collects statistics about the user while they are playing a game, using memory reading, C# and WPF.
 
 ## What is Ydis?
-**Ydis** [(link)](https://github.com/exyl-exe/ydis) is a (today archived) Windows application that automatically attaches itself to the game _Geometry Dash_, a rhythm/platforming game, and **collects various statistics about the player's performance**. Features include tracking individual level statistics such as **total play time, total attempts, and detailed performance per section of the level**, with the aim of providing **insight into areas of improvement for the player**.
+**Ydis** is a (today archived) Windows application that automatically attaches itself to the game _Geometry Dash_, a rhythm/platforming game, and **collects various statistics about the player's performance**. Features include tracking individual level statistics such as **total play time, total attempts, and detailed performance per section of the level**, with the aim of providing **insight into areas of improvement for the player**.
 This application was released publicly and has been used by at least a few hundred users, although it is now obsolete due to a lack of maintenance and the availibility of better alternative/tools.
 
+{{< content-col>}}
+{{< content-row >}}
+<img class="with-border with-shadow" src="/images/ydis/ui-1.png" alt="ui-preview-1" width="45%">
+<img class="with-border with-shadow" src="/images/ydis/ui-2.png" alt="ui-preview-2" width="45%">
+{{< /content-row >}}
+<div class="caption">Live data visualization</div>
+{{< /content-col >}}
 
-{{< side-by-side src1="/images/ydis/ui-1.png" src2="/images/ydis/ui-2.png" caption="Live data visualization">}}
 
 ## Technical summary
 - **Language**: C#

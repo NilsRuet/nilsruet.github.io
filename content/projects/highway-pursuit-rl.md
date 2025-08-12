@@ -137,7 +137,7 @@ I therefore chose to instead **downsample the image along the x-axis, retaining 
 
 The primary algorithm I focused on is **Proximal Policy Optimization** (PPO), which offers a solid baseline for reinforcement learning from high-dimensional inputs. PPO is widely used due to its stability, sample efficiency, and relatively low sensitivity to hyperparameters compared to algorithms like vanilla policy gradients or DDPG.
 
-I used the [PPO implementation from a tutorial by Weights & Biases](https://www.youtube.com/watch?v=MEt6rrxH8W4), slightly modified to ensure compatibility with my custom environment and to include performance profiling metrics.
+I used the [PPO implementation from a tutorial by Weights & Biases](https://www.youtube.com/watch?v=MEt6rrxH8W4) ([GitHub](https://github.com/vwxyzjn/ppo-implementation-details)), slightly modified to ensure compatibility with my custom environment and to include performance profiling metrics.
 
 Training used **multiple parallel environment instances** on one machine to speed up rollout generation.
 

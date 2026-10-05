@@ -13,7 +13,7 @@ params:
   profileMode:
     enabled: true
     title: "Nils Ruet"
-    subtitle: "Software engineer exploring AI and reinforcement learning, with a passion for applied research. Currently looking for new opportunities, feel free to reach out!"
+    subtitle: "Software engineer exploring AI, reinforcement learning and cybersecurity. Currently looking for new opportunities, feel free to reach out!"
     imageUrl: "images/avatar.jpg"
     imageWidth: 120
     imageHeight: 120

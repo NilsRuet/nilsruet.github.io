@@ -13,7 +13,7 @@ menu:
 
 ---
 
-### Ph.D. student in Psychology/Computer science (incomplete)
+### Ph.D. student in Psychology/Applied mathematics (incomplete)
 **Université Paris-Saclay** - Bures-sur-Yvette, France  
 09-2023 – 03-2025
 
